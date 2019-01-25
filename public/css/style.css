@@ -1,0 +1,24 @@
+/*#frmCheckPassword {border-top:#F0F0F0 2px solid;
+background:#808080;padding:10px;
+}*/
+/*.pwd{
+padding:7px; border:#F0F0F0 1px solid; border-radius:4px;
+}*/
+#password-strength-status {
+padding: 0px 5px;color: #FFFFFF; border-radius:4px;margin-top:0px;
+}
+.medium-password{
+background-color: #b7d60a;border:#BBB418 1px solid;
+}
+.weak-password{
+background-color: #ce1d14;border:#AA4502 1px solid;
+}
+.strong-password{
+background-color: #12CC1A;border:#0FA015 1px solid;
+}
+#password-confirm-error{
+background-color: #f79e9e;border:#f50d0d 1px solid;
+}
+#oldpassword-error{
+background-color: #f79e9e;border:#f50d0d 1px solid;
+}
